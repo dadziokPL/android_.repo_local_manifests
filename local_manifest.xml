@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="frameworks/av" name="androidarmv6/android_frameworks_av" revision="cm-11.0" />
+  <project path="hardware/qcom/display-legacy" name="androidarmv6/android_hardware_qcom_display-legacy" revision="cm-11.0" />
+  <project path="hardware/qcom/media-legacy" name="androidarmv6/android_hardware_qcom_media_legacy" revision="cm-11.0" />
+  
+  <project path="device/htc/common" name="dadziokPL/android_device_htc_common" revision="cm-11.0" />
+  <project path="device/htc/protou" name="dadziokPL/android_device_htc_protou" revision="cm-11.0" />
+  <project path="vendor/htc/protou" name="dadziokPL/android_vendor_htc_protou" revision="cm-11.0" />
+  <project path="kernel/htc/protou" name="dadziokPL/android_kernel_htc_protou" revision="cm-11.0" />
+</manifest>
