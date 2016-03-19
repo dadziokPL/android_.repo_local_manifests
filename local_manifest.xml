@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <remove-project name="CyanogenMod/android_frameworks_av" />
   <project path="frameworks/av" name="androidarmv6/android_frameworks_av" revision="cm-11.0" />
   <project path="hardware/qcom/display-legacy" name="androidarmv6/android_hardware_qcom_display-legacy" revision="cm-11.0" />
   <project path="hardware/qcom/media-legacy" name="androidarmv6/android_hardware_qcom_media_legacy" revision="cm-11.0" />
