@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" revision="cm-13.0" />
+  <project path="external/mm-dash" name="CyanogenMod/android_external_mm-dash" revision="cm-13.0" />
+  <project path="packages/apps/FlipFlap" name="jrior001/android_packages_apps_FlipFlap" revision="cm-13.0" />
+  <project path="packages/resources/devicesettings" name="CyanogenMod/android_packages_resources_devicesettings" revision="cm-14.1" />
+  
   <project path="bootable/recovery-twrp" name="omnirom/android_bootable_recovery" revision="android-6.0" />
   
   <project path="device/lge/c50n" name="dadziokPL/android_device_lge_c50n" revision="lineage-13" />
