@@ -9,7 +9,5 @@
   <project path="bootable/recovery-twrp" name="omnirom/android_bootable_recovery" revision="android-6.0" />
   
   <project path="device/lge/c50n" name="dadziokPL/android_device_lge_c50n" revision="lineage-13" />
-  <project path="device/lge/c50-common" name="dadziokPL/android_device_lge_c50-common" revision="lineage-13" />
-  <project path="device/lge/msm8916-common" name="dadziokPL/android_device_lge_msm8916-common" revision="lineage-13" />
   <project path="kernel/lge/c50n" name="dadziokPL/android_kernel_lge_c50n" revision="master" />
 </manifest>
