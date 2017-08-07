@@ -10,4 +10,5 @@
   
   <project path="device/lge/c50n" name="dadziokPL/android_device_lge_c50n" revision="lineage-13" />
   <project path="kernel/lge/c50n" name="dadziokPL/android_kernel_lge_c50n" revision="master" />
+  <project path="vendor/lge" name="dadziokPL/android_vendor_lge" revision="los13" />
 </manifest>
